@@ -1,24 +1,9 @@
-# README
+http://y0m0r.hateblo.jp/entry/20120618/1340025202
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://intellectual-curiosity.tokyo/2018/10/30/djangoでmatplotlibによるグラフ表示する方法/#DB
 
-Things you may want to cover:
+https://www.jianshu.com/p/2afe31f53677
 
-* Ruby version
+https://bbs.csdn.net/topics/390548382
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://blog.csdn.net/pergoods/article/details/84913249
